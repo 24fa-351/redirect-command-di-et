@@ -1,0 +1,1 @@
+./redirect_cmd input.txt output.txt grep hello

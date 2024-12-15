@@ -1,0 +1,1 @@
+echo -e "hello world\nhello ChatGPT\nthis is a test" > input.txt
